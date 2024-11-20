@@ -1,0 +1,13 @@
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.Properties.Resources.resources
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.csproj.GenerateResource.cache
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\bin\Debug\uprrr.exe.config
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\bin\Debug\uprrr.exe
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\bin\Debug\uprrr.pdb
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.exe
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.pdb
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.View.Form1.resources
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.View.Gallery.resources
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.View.Gal.resources
+C:\Users\1409-10\Desktop\12a\uprrr\uprrr\obj\Debug\uprrr.View.Uslugi.resources
